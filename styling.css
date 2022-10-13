@@ -1,0 +1,19 @@
+.main {
+  width: 100%;
+  text-align: center;
+  background-color: rgb(107, 132, 142);
+}
+button {
+  color: rgb(88, 2, 2);
+  background-color: rgb(57, 106, 161);
+}
+th {
+  border: 1px solid black;
+}
+.table {
+  background-color: azure;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  border: 1px solid rgb(72, 79, 133);
+}
